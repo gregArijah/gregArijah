@@ -21,7 +21,7 @@ This section will not be displayed on the GitHub overview page.
    Welcome to my GitHub! I am a software developer with a passion for engineering and problem solving. I love building innovative solutions, and creating cool projects that make a difference. I have a background in manufacturing technology and I am very excited to apply my newly honed skills.
    </p>
   <li> 🎓 I graduated! Web development certificate @ <a href="https://bootcamp.learn.utoronto.ca/coding/"> The University of Toronto</a> </li>
-  <br/><li> 🔭 I’m currently working on a <a href="https://github.com/gregArijah/javatrol">cnc-gcode-generator</a> and a <a href="https://github.com/gregArijah/javatrol">workforce-manager</a>, built using React and NextJS respectively. </li>
+  <br/><li> 🔭 I’m currently working on a <a href="https://github.com/gregArijah/javatrol">cnc-gcode-generator</a> and a <a href="https://github.com/gregArijah/javatrol">workforce-manager</a>. </li>
  <br/><li>🌱 I’m currently learning C# and the .NET Framework. </li>
  <br/><li>🤔 I’m looking for good first issues in open source projects. </li>
  <br/><li>💬 Ask me about manfacturing; CNC programming and machining. </li>
