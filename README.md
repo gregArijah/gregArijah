@@ -3,22 +3,21 @@
 <head>
   <meta charset="UTF-8">
 </head>
-<body style="background-color:black;">
+<body>
   <header>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=1000&pause=11000&color=abd200&multiline=true&width=435&height=45&lines=Greg+Arijah" alt="Typing SVG" />
-  
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&duration=1000&pause=3000&color=aedf9c&multiline=false&width=435&height=30&lines=Software+Developer;Builder+of+pretty+kool+things;Toronto%2C+Canada" alt="Typing SVG" /></a>
-  <hr/>
-  <p style="line-height:3;">
+  <hr><br>
+  <p>
    Welcome to my GitHub! I am a software developer with a passion for engineering and problem solving. I love building innovative solutions, and creating cool projects that make a difference. I have a background in manufacturing technology and I am very excited to apply my newly honed skills.
-  <br/>🎓 I graduated! Web development certificate @ <a href="https://bootcamp.learn.utoronto.ca/coding/"> The University of Toronto</a>
-  <br/>🔭 I’m currently working on a <a href="https://github.com/gregArijah/javatrol">cnc-gcode-generator</a> and a <a href="https://github.com/gregArijah/javatrol">workforce-manager</a>, built using React and NextJS respectively.
- <br/>🌱 I’m currently learning C# and the .NET Framework.
- <br/>🤔 I’m looking for good first issues in open source projects.
- <br/>💬 Ask me about manfacturing; CNC programming and machining.
- <br/>📫 How to reach me: <a href="mailto:gregarijah@gmail.com">gregarijah@gmail.com</a>
- 
- </p>
+   </p>
+  <li> 🎓 I graduated! Web development certificate @ <a href="https://bootcamp.learn.utoronto.ca/coding/"> The University of Toronto</a> </li>
+  <br/><li> 🔭 I’m currently working on a <a href="https://github.com/gregArijah/javatrol">cnc-gcode-generator</a> and a <a href="https://github.com/gregArijah/javatrol">workforce-manager</a>, built using React and NextJS respectively. </li>
+ <br/><li>🌱 I’m currently learning C# and the .NET Framework. </li>
+ <br/><li>🤔 I’m looking for good first issues in open source projects. </li>
+ <br/><li>💬 Ask me about manfacturing; CNC programming and machining. </li>
+ <br/><li>📫 How to reach me: <a href="mailto:gregarijah@gmail.com">gregarijah@gmail.com</a> </li>
  <br>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/?username=gregArijah&count_private=true&theme=merko&showicons=true" height="200"/>
