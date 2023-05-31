@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=1000&pause=11000&color=abd200&multiline=true&width=435&height=45&lines=Greg+Arijah" alt="Typing SVG" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&duration=1000&pause=3000&color=aedf9c&multiline=false&width=435&height=30&lines=Software+Developer;Builder+of+pretty+kool+things;Toronto%2C+Canada" alt="Typing SVG" /></a>
-  <hr><br>
+  <hr>
   <p>
    Welcome to my GitHub! I am a software developer with a passion for engineering and problem solving. I love building innovative solutions, and creating cool projects that make a difference. I have a background in manufacturing technology and I am very excited to apply my newly honed skills.
    </p>
@@ -20,8 +20,8 @@
  <br/><li>📫 How to reach me: <a href="mailto:gregarijah@gmail.com">gregarijah@gmail.com</a> </li>
  <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/?username=gregArijah&count_private=true&theme=merko&showicons=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregArijah&langs_count=4&theme=merko" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=gregArijah&count_private=true&theme=merko&showicons=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregArijah&langs_count=4&theme=merko" height="180"/>
 </p>
 
  
