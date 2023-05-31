@@ -20,8 +20,8 @@
  <br/><li>📫 How to reach me: <a href="mailto:gregarijah@gmail.com">gregarijah@gmail.com</a> </li>
  <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/?username=gregArijah&count_private=true&theme=merko&showicons=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregArijah&langs_count=4&theme=merko" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=gregArijah&count_private=true&theme=merko&showicons=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregArijah&langs_count=4&theme=merko" height="190"/>
 </p>
 
  
@@ -42,6 +42,6 @@
     <li><a href="https://github.com/example-project-3">Example Project 3</a></li>
   </ul>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregArijah&theme=merko" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregArijah&theme=merko" height="190"/>
 </body>
 </html>
