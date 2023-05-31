@@ -2,17 +2,13 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Greg Arijah - Software Developer</title>
 </head>
-<body>
+<body style="background-color:black;">
   <header>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=1000&pause=11000&color=abd200&multiline=true&width=435&height=45&lines=Greg+Arijah" alt="Typing SVG" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&duration=1000&pause=3000&color=aedf9c&multiline=false&width=435&height=30&lines=Software+Developer;Builder+of+pretty+kool+things;Toronto%2C+Canada" alt="Typing SVG" /></a>
   <hr/>
-  
-
-  <br/>
   <p style="line-height:3;">
    Welcome to my GitHub! I am a software developer with a passion for engineering and problem solving. I love building innovative solutions, and creating cool projects that make a difference. I have a background in manufacturing technology and I am very excited to apply my newly honed skills.
   <br/>🎓 I graduated! Web development certificate @ <a href="https://bootcamp.learn.utoronto.ca/coding/"> The University of Toronto</a>
