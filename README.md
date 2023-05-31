@@ -1,3 +1,10 @@
+<!---
+### Contribution Activity
+
+This section will not be displayed on the GitHub overview page.
+--->
+
+
 <!DOCTYPE html>
 <html>
 <head>
