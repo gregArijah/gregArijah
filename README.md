@@ -55,13 +55,13 @@ This section will not be displayed on the GitHub overview page.
   <div>
     <p>Javatrol is a web based coversational CNC programming tool designed by machinist for machinist. From its inception it was meant to be user friendly, intuitive and provide all the coulds that "if only this program could..." (click image to follow link)
       <br>
-      <a href="https://javatrol.herokuapp.com"><img src="./img/javatrol_image.jpeg" height="190"></a>
+      <a href="https://javatrol.herokuapp.com"><img src="./img/javatrol_image.jpeg" height="190" width="360"></a>
       <span> </span> 
-      <a href="https://javatrol.herokuapp.com"><img src="./img/javatrol_image2.jpeg" height="190"></a>
+      <a href="https://javatrol.herokuapp.com"><img src="./img/javatrol_image2.jpeg" height="190" width="360"></a>
     </p>
     <p> Nanji is a web based workforce management application. The initial release of the app will focus mainly on calculated the number of hours a given employee has worked over a selected period of time. (click image to follow link)
       <br>
-      <a href="https://github.com/gregArijah/workforce-manager"><img src="./img/coming_soon.png" height="190" width="370"></a>
+      <a href="https://github.com/gregArijah/workforce-manager"><img src="./img/coming_soon.png" height="190" width="360"></a>
     </p>
   </div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregArijah&theme=merko" height="190"/>
