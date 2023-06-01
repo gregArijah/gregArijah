@@ -53,7 +53,7 @@ This section will not be displayed on the GitHub overview page.
   <br>
   <h2>Projects</h2>
   <div>
-    <p>Javatrol is a web based coversational CNC programming tool designed by machinist for machinist. From its inception it was meant to be user friendly, intuitive and provide all the coulds that "if only this program could..." (click image to follow link)
+    <p>Javatrol is a web based coversational CNC programming tool designed by machinists for machinists. From its inception it was meant to be user friendly, intuitive and provide all the coulds that "if only this program could..." (click image to follow link)
       <br>
       <a href="https://javatrol.herokuapp.com"><img src="./img/javatrol_image.jpeg" height="190" width="360"></a>
       <span> </span> 
