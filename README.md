@@ -21,7 +21,7 @@ This section will not be displayed on the GitHub overview page.
    Welcome to my GitHub! I am a software developer with a passion for engineering and problem solving. I love building innovative solutions, and creating cool projects that make a difference. I have a background in manufacturing technology and I am very excited to apply my newly honed skills.
    </p>
   <li> 🎓 I graduated! Web development certificate @ <a href="https://bootcamp.learn.utoronto.ca/coding/"> The University of Toronto</a> </li>
-  <br/><li> 🔭 I’m currently working on a <a href="https://github.com/gregArijah/javatrol">cnc-gcode-generator</a> and a <a href="https://github.com/gregArijah/javatrol">workforce-manager</a>. </li>
+  <br/><li> 🔭 I’m currently working on a <a href="https://javatrol.herokuapp.com">cnc-gcode-generator</a> and a <a href="https://github.com/gregArijah/workforce-manager">workforce-manager</a>. </li>
  <br/><li>🌱 I’m currently learning C# and the .NET Framework. </li>
  <br/><li>🤔 I’m looking for good first issues in open source projects. </li>
  <br/><li>💬 Ask me about manfacturing; CNC programming and machining. </li>
@@ -37,35 +37,33 @@ This section will not be displayed on the GitHub overview page.
   
   <h2>Technologies</h2>
   <div>
-    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">    
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <br>
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-    <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">   
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   </div>
   <br>
   <h2>Projects</h2>
-  <ul>
-    <li><a href="https://github.com/example-project-1">Example Project 1</a></li>
-    <li><a href="https://github.com/example-project-2">Example Project 2</a></li>
-    <li><a href="https://github.com/example-project-3">Example Project 3</a></li>
-  </ul>
-  
+  <div>
+    <p>Javatrol is a web based coversational CNC programming tool designed by machinist for machinist. From its inception it was meant to be user friendly, intuitive and provide all the coulds that "if only this program could..." (click image to follow link)
+      <br>
+      <a href="https://javatrol.herokuapp.com"><img src="./img/javatrol_image.jpeg" height="190"></a>
+      <span> </span> 
+      <a href="https://javatrol.herokuapp.com"><img src="./img/javatrol_image2.jpeg" height="190"></a>
+    </p>
+    <p> Nanji is a web based workforce management application. The initial release of the app will focus mainly on calculated the number of hours a given employee has worked over a selected period of time. (click image to follow link)
+      <br>
+      <a href="https://github.com/gregArijah/workforce-manager"><img src="./img/coming_soon.png" height="190" width="370"></a>
+    </p>
+  </div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregArijah&theme=merko" height="190"/>
 </body>
 </html>
