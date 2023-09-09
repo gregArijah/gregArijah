@@ -22,8 +22,8 @@ This section will not be displayed on the GitHub overview page.
    </p>
   <li> 🎓 I graduated! Web development certificate @ <a href="https://bootcamp.learn.utoronto.ca/coding/"> The University of Toronto</a> </li>
   <br/><li> 🔭 I’m currently working on a <a href="https://javatrol.herokuapp.com">cnc-gcode-generator</a> and a <a href="https://github.com/gregArijah/workforce-manager">workforce-manager</a>. </li>
- <br/><li>🌱 I’m currently learning C# and the .NET Framework. </li>
- <br/><li>🤔 I’m looking for good first issues in open source projects. </li>
+ <br/><li>🌱 I’m currently following the bootcamp continuation courses which introduces students to AWS, Python, Java and C#. </li>
+ <br/><li>🤔 I’m looking for my first job as a software developer. </li>
  <br/><li>💬 Ask me about manfacturing; CNC programming and machining. </li>
  <br/><li>📫 How to reach me: <a href="mailto:gregarijah@gmail.com">gregarijah@gmail.com</a> </li>
  <br>
