@@ -59,9 +59,11 @@ This section will not be displayed on the GitHub overview page.
       <span> </span> 
       <a href="https://javatrol.herokuapp.com"><img src="./img/javatrol_image2.jpeg" height="190" width="360"></a>
     </p>
-    <p> Nanji is a web based workforce management application. The initial release of the app will focus mainly on calculating the number of hours a given employee has worked over a selected period of time. (click image to follow link)
+    <p> Veleron is a web based workforce management application. The initial release of the app will focus mainly on calculating the number of hours a given employee has worked over a selected period of time, in prder to calculate wages. (click image to follow link)
       <br>
-      <a href="https://github.com/gregArijah/workforce-manager"><img src="./img/coming_soon.png" height="190" width="360"></a>
+      <a href="https://veleron.vercel.app"><img src="./img/veleron.jpeg" height="190" width="360"></a>
+      <span> </span> 
+      <a href="https://veleron.vercel.app"><img src="./img/veleron2.jpeg" height="190" width="360"></a>
     </p>
   </div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregArijah&theme=radical" height="190"/>
